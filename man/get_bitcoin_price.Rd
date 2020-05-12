@@ -2,10 +2,10 @@
 % Please edit documentation in R/hello.R
 \name{get_bitcoin_price}
 \alias{get_bitcoin_price}
-\title{get bitcoin price}
+\title{Accessing the Binance API to get the most recent price of a Bitcoin in USD: a wrapper around the \code(binancer) package.}
 \usage{
 get_bitcoin_price(retried = 0)
 }
 \description{
-get bitcoin price
+Accessing the Binance API to get the most recent price of a Bitcoin in USD: a wrapper around the \code(binancer) package.
 }

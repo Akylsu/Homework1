@@ -6,6 +6,9 @@
 \usage{
 hello()
 }
+\arguments{
+\item{retried}{the number of previously done before the exponential backoff sleep}
+}
 \description{
 Dummy function writing "hello world"
 }

@@ -1,0 +1,14 @@
+Package: Homework1
+Type: Package
+Title: Homework1 Package 
+Version: 0.1.0
+Author: Akylbek <akigitacc@gmail.com>
+Maintainer: Akylbek <akigitacc@gmail.com>
+Description: Homework1 Package
+        Create the mr R package described above with the forint and get_bitcoin_price functions,
+        and push to a new repo in your GitHub account, so that you can install the package on any
+        computer via remotes::install_github. Submit the URL to your GitHub repo in Moodle.
+License: AGPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0

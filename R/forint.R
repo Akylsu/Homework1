@@ -11,7 +11,7 @@ hello <- function() {
 }
 ##
 ##
-#' Accessing the Binance API to get the most recent price of a Bitcoin in USD: a wrapper around the \code(binancer) package.
+#' Accessing the Binance API to get the most recent price of a Bitcoin in USD.
 #' @export
 get_bitcoin_price <- function(retried = 0) {
   tryCatch(

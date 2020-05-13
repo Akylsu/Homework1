@@ -2,7 +2,7 @@
 % Please edit documentation in R/forint.R
 \name{forint}
 \alias{forint}
-\title{helper function for Ft format}
+\title{Formatter function for Hungarian Forint}
 \usage{
 forint(x)
 }
@@ -10,5 +10,5 @@ forint(x)
 \item{x}{number}
 }
 \description{
-helper function for Ft format
+Formatter function for Hungarian Forint
 }

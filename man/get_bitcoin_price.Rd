@@ -2,10 +2,13 @@
 % Please edit documentation in R/forint.R
 \name{get_bitcoin_price}
 \alias{get_bitcoin_price}
-\title{Accessing the Binance API to get the most recent price of a Bitcoin in USD.}
+\title{Access Binance API for BTC price in USD}
 \usage{
 get_bitcoin_price(retried = 0)
 }
+\arguments{
+\item{retied}{# the number of retries before sleep}
+}
 \description{
-Accessing the Binance API to get the most recent price of a Bitcoin in USD.
+Access Binance API for BTC price in USD
 }
